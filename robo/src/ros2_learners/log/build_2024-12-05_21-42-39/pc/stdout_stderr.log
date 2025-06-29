@@ -1,0 +1,25 @@
+running egg_info
+writing ../build/pc/pc.egg-info/PKG-INFO
+writing dependency_links to ../build/pc/pc.egg-info/dependency_links.txt
+writing entry points to ../build/pc/pc.egg-info/entry_points.txt
+writing requirements to ../build/pc/pc.egg-info/requires.txt
+writing top-level names to ../build/pc/pc.egg-info/top_level.txt
+reading manifest file '../build/pc/pc.egg-info/SOURCES.txt'
+writing manifest file '../build/pc/pc.egg-info/SOURCES.txt'
+running build
+running build_py
+copying pc/list1.py -> /home/vatsan/robo/src/ros2_learners/build/pc/build/lib/pc
+copying pc/match.py -> /home/vatsan/robo/src/ros2_learners/build/pc/build/lib/pc
+running install
+running install_lib
+copying /home/vatsan/robo/src/ros2_learners/build/pc/build/lib/pc/list1.py -> /home/vatsan/robo/src/ros2_learners/install/pc/lib/python3.10/site-packages/pc
+copying /home/vatsan/robo/src/ros2_learners/build/pc/build/lib/pc/match.py -> /home/vatsan/robo/src/ros2_learners/install/pc/lib/python3.10/site-packages/pc
+byte-compiling /home/vatsan/robo/src/ros2_learners/install/pc/lib/python3.10/site-packages/pc/list1.py to list1.cpython-310.pyc
+byte-compiling /home/vatsan/robo/src/ros2_learners/install/pc/lib/python3.10/site-packages/pc/match.py to match.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/vatsan/robo/src/ros2_learners/install/pc/lib/python3.10/site-packages/pc-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../build/pc/pc.egg-info to /home/vatsan/robo/src/ros2_learners/install/pc/lib/python3.10/site-packages/pc-0.0.0-py3.10.egg-info
+running install_scripts
+Installing map_launch script to /home/vatsan/robo/src/ros2_learners/install/pc/lib/pc
+writing list of installed files to '/home/vatsan/robo/src/ros2_learners/build/pc/install.log'

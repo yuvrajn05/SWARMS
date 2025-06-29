@@ -1,0 +1,21 @@
+[1.991s] Invoking command in '/home/vatsan/robo/src/ros2_learners/pc': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/vatsan/robo/src/ros2_learners/build/pc/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vatsan/robo/src/ros2_learners/install/pc/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/pc build --build-base /home/vatsan/robo/src/ros2_learners/build/pc/build install --record /home/vatsan/robo/src/ros2_learners/build/pc/install.log --single-version-externally-managed install_data
+[2.321s] running egg_info
+[2.322s] writing ../build/pc/pc.egg-info/PKG-INFO
+[2.322s] writing dependency_links to ../build/pc/pc.egg-info/dependency_links.txt
+[2.322s] writing entry points to ../build/pc/pc.egg-info/entry_points.txt
+[2.322s] writing requirements to ../build/pc/pc.egg-info/requires.txt
+[2.323s] writing top-level names to ../build/pc/pc.egg-info/top_level.txt
+[2.324s] reading manifest file '../build/pc/pc.egg-info/SOURCES.txt'
+[2.326s] writing manifest file '../build/pc/pc.egg-info/SOURCES.txt'
+[2.326s] running build
+[2.326s] running build_py
+[2.326s] running install
+[2.327s] running install_lib
+[2.329s] running install_data
+[2.329s] running install_egg_info
+[2.331s] removing '/home/vatsan/robo/src/ros2_learners/install/pc/lib/python3.10/site-packages/pc-0.0.0-py3.10.egg-info' (and everything under it)
+[2.332s] Copying ../build/pc/pc.egg-info to /home/vatsan/robo/src/ros2_learners/install/pc/lib/python3.10/site-packages/pc-0.0.0-py3.10.egg-info
+[2.332s] running install_scripts
+[2.361s] Installing map_launch script to /home/vatsan/robo/src/ros2_learners/install/pc/lib/pc
+[2.362s] writing list of installed files to '/home/vatsan/robo/src/ros2_learners/build/pc/install.log'
+[2.396s] Invoked command in '/home/vatsan/robo/src/ros2_learners/pc' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/vatsan/robo/src/ros2_learners/build/pc/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vatsan/robo/src/ros2_learners/install/pc/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/pc build --build-base /home/vatsan/robo/src/ros2_learners/build/pc/build install --record /home/vatsan/robo/src/ros2_learners/build/pc/install.log --single-version-externally-managed install_data

@@ -1,0 +1,3 @@
+[console_scripts]
+map_launch = pc.map_launch:main
+

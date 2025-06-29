@@ -1,0 +1,42 @@
+[1.567s] Invoking command in '/home/vatsan/robo/src/ros2_learners/stamp': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/vatsan/robo/src/ros2_learners/build/stamp/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vatsan/robo/src/ros2_learners/install/stamp/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/stamp build --build-base /home/vatsan/robo/src/ros2_learners/build/stamp/build install --record /home/vatsan/robo/src/ros2_learners/build/stamp/install.log --single-version-externally-managed install_data
+[2.076s] running egg_info
+[2.076s] creating ../build/stamp/stamp.egg-info
+[2.077s] writing ../build/stamp/stamp.egg-info/PKG-INFO
+[2.077s] writing dependency_links to ../build/stamp/stamp.egg-info/dependency_links.txt
+[2.077s] writing entry points to ../build/stamp/stamp.egg-info/entry_points.txt
+[2.077s] writing requirements to ../build/stamp/stamp.egg-info/requires.txt
+[2.077s] writing top-level names to ../build/stamp/stamp.egg-info/top_level.txt
+[2.077s] writing manifest file '../build/stamp/stamp.egg-info/SOURCES.txt'
+[2.077s] reading manifest file '../build/stamp/stamp.egg-info/SOURCES.txt'
+[2.077s] writing manifest file '../build/stamp/stamp.egg-info/SOURCES.txt'
+[2.077s] running build
+[2.077s] running build_py
+[2.077s] creating /home/vatsan/robo/src/ros2_learners/build/stamp/build
+[2.078s] creating /home/vatsan/robo/src/ros2_learners/build/stamp/build/lib
+[2.078s] creating /home/vatsan/robo/src/ros2_learners/build/stamp/build/lib/stamp
+[2.078s] copying stamp/__init__.py -> /home/vatsan/robo/src/ros2_learners/build/stamp/build/lib/stamp
+[2.078s] copying stamp/p.py -> /home/vatsan/robo/src/ros2_learners/build/stamp/build/lib/stamp
+[2.078s] copying stamp/match.py -> /home/vatsan/robo/src/ros2_learners/build/stamp/build/lib/stamp
+[2.078s] copying stamp/data.py -> /home/vatsan/robo/src/ros2_learners/build/stamp/build/lib/stamp
+[2.078s] running install
+[2.078s] running install_lib
+[2.078s] creating /home/vatsan/robo/src/ros2_learners/install/stamp/lib/python3.10/site-packages/stamp
+[2.078s] copying /home/vatsan/robo/src/ros2_learners/build/stamp/build/lib/stamp/__init__.py -> /home/vatsan/robo/src/ros2_learners/install/stamp/lib/python3.10/site-packages/stamp
+[2.078s] copying /home/vatsan/robo/src/ros2_learners/build/stamp/build/lib/stamp/p.py -> /home/vatsan/robo/src/ros2_learners/install/stamp/lib/python3.10/site-packages/stamp
+[2.079s] copying /home/vatsan/robo/src/ros2_learners/build/stamp/build/lib/stamp/match.py -> /home/vatsan/robo/src/ros2_learners/install/stamp/lib/python3.10/site-packages/stamp
+[2.079s] copying /home/vatsan/robo/src/ros2_learners/build/stamp/build/lib/stamp/data.py -> /home/vatsan/robo/src/ros2_learners/install/stamp/lib/python3.10/site-packages/stamp
+[2.079s] byte-compiling /home/vatsan/robo/src/ros2_learners/install/stamp/lib/python3.10/site-packages/stamp/__init__.py to __init__.cpython-310.pyc
+[2.079s] byte-compiling /home/vatsan/robo/src/ros2_learners/install/stamp/lib/python3.10/site-packages/stamp/p.py to p.cpython-310.pyc
+[2.079s] byte-compiling /home/vatsan/robo/src/ros2_learners/install/stamp/lib/python3.10/site-packages/stamp/match.py to match.cpython-310.pyc
+[2.079s] byte-compiling /home/vatsan/robo/src/ros2_learners/install/stamp/lib/python3.10/site-packages/stamp/data.py to data.cpython-310.pyc
+[2.079s] running install_data
+[2.079s] creating /home/vatsan/robo/src/ros2_learners/install/stamp/share/ament_index
+[2.079s] creating /home/vatsan/robo/src/ros2_learners/install/stamp/share/ament_index/resource_index
+[2.079s] creating /home/vatsan/robo/src/ros2_learners/install/stamp/share/ament_index/resource_index/packages
+[2.080s] copying resource/stamp -> /home/vatsan/robo/src/ros2_learners/install/stamp/share/ament_index/resource_index/packages
+[2.080s] copying package.xml -> /home/vatsan/robo/src/ros2_learners/install/stamp/share/stamp
+[2.080s] running install_egg_info
+[2.080s] Copying ../build/stamp/stamp.egg-info to /home/vatsan/robo/src/ros2_learners/install/stamp/lib/python3.10/site-packages/stamp-0.0.0-py3.10.egg-info
+[2.080s] running install_scripts
+[2.080s] writing list of installed files to '/home/vatsan/robo/src/ros2_learners/build/stamp/install.log'
+[2.132s] Invoked command in '/home/vatsan/robo/src/ros2_learners/stamp' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/vatsan/robo/src/ros2_learners/build/stamp/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vatsan/robo/src/ros2_learners/install/stamp/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/stamp build --build-base /home/vatsan/robo/src/ros2_learners/build/stamp/build install --record /home/vatsan/robo/src/ros2_learners/build/stamp/install.log --single-version-externally-managed install_data

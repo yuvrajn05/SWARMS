@@ -1,0 +1,115 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-6b0fae32756cb0091f97.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "transforms",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "frame_chains::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-frame_chains-da3aa00944b397ad294a.json",
+					"name" : "frame_chains",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rotation_frame::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rotation_frame-12749206f5d1f168e0b7.json",
+					"name" : "rotation_frame",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "static_dynamic_frame::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-static_dynamic_frame-bc0766045f0368149351.json",
+					"name" : "static_dynamic_frame",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "transform_order::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-transform_order-cebdf5de870989c0dc38.json",
+					"name" : "transform_order",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "transforms_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-transforms_uninstall-ae66d4b98ab97d9068b8.json",
+					"name" : "transforms_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "translation_frame::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-translation_frame-cad3fb86236f6a46f615.json",
+					"name" : "translation_frame",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-49ba82e09addca728ff0.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/vatsan/robo/src/ros2_learners/build/transforms",
+		"source" : "/home/vatsan/robo/src/ros2_learners/transforms"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

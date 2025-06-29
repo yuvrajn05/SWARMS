@@ -1,0 +1,22 @@
+[1.993s] Invoking command in '/home/vatsan/robo/src/ros2_learners/robot_math': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/vatsan/robo/src/ros2_learners/build/robot_math/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vatsan/robo/src/ros2_learners/install/robot_math/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/robot_math build --build-base /home/vatsan/robo/src/ros2_learners/build/robot_math/build install --record /home/vatsan/robo/src/ros2_learners/build/robot_math/install.log --single-version-externally-managed install_data
+[2.438s] running egg_info
+[2.439s] writing ../build/robot_math/robot_math.egg-info/PKG-INFO
+[2.440s] writing dependency_links to ../build/robot_math/robot_math.egg-info/dependency_links.txt
+[2.440s] writing entry points to ../build/robot_math/robot_math.egg-info/entry_points.txt
+[2.440s] writing requirements to ../build/robot_math/robot_math.egg-info/requires.txt
+[2.440s] writing top-level names to ../build/robot_math/robot_math.egg-info/top_level.txt
+[2.443s] reading manifest file '../build/robot_math/robot_math.egg-info/SOURCES.txt'
+[2.445s] writing manifest file '../build/robot_math/robot_math.egg-info/SOURCES.txt'
+[2.445s] running build
+[2.445s] running build_py
+[2.446s] running install
+[2.446s] running install_lib
+[2.448s] running install_data
+[2.448s] running install_egg_info
+[2.451s] removing '/home/vatsan/robo/src/ros2_learners/install/robot_math/lib/python3.10/site-packages/robot_math-0.0.0-py3.10.egg-info' (and everything under it)
+[2.451s] Copying ../build/robot_math/robot_math.egg-info to /home/vatsan/robo/src/ros2_learners/install/robot_math/lib/python3.10/site-packages/robot_math-0.0.0-py3.10.egg-info
+[2.452s] running install_scripts
+[2.484s] Installing circle_motion_node script to /home/vatsan/robo/src/ros2_learners/install/robot_math/lib/robot_math
+[2.484s] Installing go_To_Goal_node script to /home/vatsan/robo/src/ros2_learners/install/robot_math/lib/robot_math
+[2.485s] writing list of installed files to '/home/vatsan/robo/src/ros2_learners/build/robot_math/install.log'
+[2.542s] Invoked command in '/home/vatsan/robo/src/ros2_learners/robot_math' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/vatsan/robo/src/ros2_learners/build/robot_math/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vatsan/robo/src/ros2_learners/install/robot_math/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/robot_math build --build-base /home/vatsan/robo/src/ros2_learners/build/robot_math/build install --record /home/vatsan/robo/src/ros2_learners/build/robot_math/install.log --single-version-externally-managed install_data

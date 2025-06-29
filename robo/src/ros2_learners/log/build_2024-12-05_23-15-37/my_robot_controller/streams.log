@@ -1,0 +1,33 @@
+[1.319s] Invoking command in '/home/vatsan/robo/src/ros2_learners/my_robot_controller': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/vatsan/robo/src/ros2_learners/build/my_robot_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vatsan/robo/src/ros2_learners/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/my_robot_controller build --build-base /home/vatsan/robo/src/ros2_learners/build/my_robot_controller/build install --record /home/vatsan/robo/src/ros2_learners/build/my_robot_controller/install.log --single-version-externally-managed install_data
+[1.545s] running egg_info
+[1.546s] writing ../build/my_robot_controller/my_robot_controller.egg-info/PKG-INFO
+[1.546s] writing dependency_links to ../build/my_robot_controller/my_robot_controller.egg-info/dependency_links.txt
+[1.546s] writing entry points to ../build/my_robot_controller/my_robot_controller.egg-info/entry_points.txt
+[1.546s] writing requirements to ../build/my_robot_controller/my_robot_controller.egg-info/requires.txt
+[1.547s] writing top-level names to ../build/my_robot_controller/my_robot_controller.egg-info/top_level.txt
+[1.548s] reading manifest file '../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[1.548s] adding license file 'LICENSE'
+[1.549s] writing manifest file '../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[1.549s] running build
+[1.549s] running build_py
+[1.550s] running install
+[1.550s] running install_lib
+[1.551s] running install_data
+[1.551s] running install_egg_info
+[1.553s] removing '/home/vatsan/robo/src/ros2_learners/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller-0.0.0-py3.10.egg-info' (and everything under it)
+[1.553s] Copying ../build/my_robot_controller/my_robot_controller.egg-info to /home/vatsan/robo/src/ros2_learners/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller-0.0.0-py3.10.egg-info
+[1.554s] running install_scripts
+[1.572s] Installing DDPG script to /home/vatsan/robo/src/ros2_learners/install/my_robot_controller/lib/my_robot_controller
+[1.572s] Installing common_def script to /home/vatsan/robo/src/ros2_learners/install/my_robot_controller/lib/my_robot_controller
+[1.572s] Installing ddpg script to /home/vatsan/robo/src/ros2_learners/install/my_robot_controller/lib/my_robot_controller
+[1.572s] Installing draw_circle script to /home/vatsan/robo/src/ros2_learners/install/my_robot_controller/lib/my_robot_controller
+[1.572s] Installing number_count script to /home/vatsan/robo/src/ros2_learners/install/my_robot_controller/lib/my_robot_controller
+[1.572s] Installing number_publish script to /home/vatsan/robo/src/ros2_learners/install/my_robot_controller/lib/my_robot_controller
+[1.572s] Installing pose_publish script to /home/vatsan/robo/src/ros2_learners/install/my_robot_controller/lib/my_robot_controller
+[1.572s] Installing pose_subscribe script to /home/vatsan/robo/src/ros2_learners/install/my_robot_controller/lib/my_robot_controller
+[1.573s] Installing q_learning script to /home/vatsan/robo/src/ros2_learners/install/my_robot_controller/lib/my_robot_controller
+[1.573s] Installing reset_count script to /home/vatsan/robo/src/ros2_learners/install/my_robot_controller/lib/my_robot_controller
+[1.573s] Installing test_node script to /home/vatsan/robo/src/ros2_learners/install/my_robot_controller/lib/my_robot_controller
+[1.573s] Installing updated_keras_ddpg script to /home/vatsan/robo/src/ros2_learners/install/my_robot_controller/lib/my_robot_controller
+[1.573s] writing list of installed files to '/home/vatsan/robo/src/ros2_learners/build/my_robot_controller/install.log'
+[1.600s] Invoked command in '/home/vatsan/robo/src/ros2_learners/my_robot_controller' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/vatsan/robo/src/ros2_learners/build/my_robot_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vatsan/robo/src/ros2_learners/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/my_robot_controller build --build-base /home/vatsan/robo/src/ros2_learners/build/my_robot_controller/build install --record /home/vatsan/robo/src/ros2_learners/build/my_robot_controller/install.log --single-version-externally-managed install_data

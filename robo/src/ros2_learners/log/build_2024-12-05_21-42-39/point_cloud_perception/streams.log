@@ -1,0 +1,44 @@
+[0.506s] Invoking command in '/home/vatsan/robo/src/ros2_learners/build/point_cloud_perception': CMAKE_PREFIX_PATH=/opt/ros/humble DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /home/vatsan/.local/bin/cmake --build /home/vatsan/robo/src/ros2_learners/build/point_cloud_perception -- -j8 -l8
+[0.755s] [ 66%] Built target planner_seg
+[0.755s] [ 66%] Built target voxeling
+[0.755s] [100%] Built target clustering
+[0.819s] Invoked command in '/home/vatsan/robo/src/ros2_learners/build/point_cloud_perception' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /home/vatsan/.local/bin/cmake --build /home/vatsan/robo/src/ros2_learners/build/point_cloud_perception -- -j8 -l8
+[0.830s] Invoking command in '/home/vatsan/robo/src/ros2_learners/build/point_cloud_perception': CMAKE_PREFIX_PATH=/opt/ros/humble DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /home/vatsan/.local/bin/cmake --install /home/vatsan/robo/src/ros2_learners/build/point_cloud_perception
+[0.951s] -- Install configuration: ""
+[0.951s] -- Up-to-date: /home/vatsan/robo/src/ros2_learners/install/point_cloud_perception/lib/point_cloud_perception/voxeling
+[0.951s] -- Up-to-date: /home/vatsan/robo/src/ros2_learners/install/point_cloud_perception/lib/point_cloud_perception/planner_seg
+[0.952s] -- Up-to-date: /home/vatsan/robo/src/ros2_learners/install/point_cloud_perception/lib/point_cloud_perception/clustering
+[0.952s] -- Up-to-date: /home/vatsan/robo/src/ros2_learners/install/point_cloud_perception/share/point_cloud_perception//launch
+[0.952s] -- Installing: /home/vatsan/robo/src/ros2_learners/install/point_cloud_perception/share/point_cloud_perception//launch/3d_depth_mapping_rtab7.launch.py
+[0.952s] -- Installing: /home/vatsan/robo/src/ros2_learners/install/point_cloud_perception/share/point_cloud_perception//launch/3d_depth_mapping_rtab10.launch.py
+[0.952s] -- Installing: /home/vatsan/robo/src/ros2_learners/install/point_cloud_perception/share/point_cloud_perception//launch/3d_depth_mapping_rtab5.launch.py
+[0.953s] -- Up-to-date: /home/vatsan/robo/src/ros2_learners/install/point_cloud_perception/share/point_cloud_perception//launch/rtab_mapping.launch.py
+[0.953s] -- Installing: /home/vatsan/robo/src/ros2_learners/install/point_cloud_perception/share/point_cloud_perception//launch/3d_depth_mapping_rtab3.launch.py
+[0.953s] -- Installing: /home/vatsan/robo/src/ros2_learners/install/point_cloud_perception/share/point_cloud_perception//launch/3d_depth_mapping_rtab2.launch.py
+[0.955s] -- Installing: /home/vatsan/robo/src/ros2_learners/install/point_cloud_perception/share/point_cloud_perception//launch/3d_depth_mapping_rtab8.launch.py
+[0.955s] -- Installing: /home/vatsan/robo/src/ros2_learners/install/point_cloud_perception/share/point_cloud_perception//launch/3d_depth_mapping_rtab14.launch.py
+[0.955s] -- Installing: /home/vatsan/robo/src/ros2_learners/install/point_cloud_perception/share/point_cloud_perception//launch/3d_depth_mapping_rtab9.launch.py
+[0.955s] -- Installing: /home/vatsan/robo/src/ros2_learners/install/point_cloud_perception/share/point_cloud_perception//launch/3d_depth_mapping_rtab4.launch.py
+[0.955s] -- Installing: /home/vatsan/robo/src/ros2_learners/install/point_cloud_perception/share/point_cloud_perception//launch/3d_depth_mapping_rtab15.launch.py
+[0.955s] -- Installing: /home/vatsan/robo/src/ros2_learners/install/point_cloud_perception/share/point_cloud_perception//launch/3d_depth_mapping_rtab12.launch.py
+[0.955s] -- Installing: /home/vatsan/robo/src/ros2_learners/install/point_cloud_perception/share/point_cloud_perception//launch/3d_depth_mapping_rtab6.launch.py
+[0.956s] -- Up-to-date: /home/vatsan/robo/src/ros2_learners/install/point_cloud_perception/share/point_cloud_perception//launch/3d_depth_mapping_rtab.launch.py
+[0.956s] -- Installing: /home/vatsan/robo/src/ros2_learners/install/point_cloud_perception/share/point_cloud_perception//launch/3d_depth_mapping_rtab13.launch.py
+[0.956s] -- Installing: /home/vatsan/robo/src/ros2_learners/install/point_cloud_perception/share/point_cloud_perception//launch/3d_depth_mapping_rtab11.launch.py
+[0.956s] -- Installing: /home/vatsan/robo/src/ros2_learners/install/point_cloud_perception/share/point_cloud_perception//launch/3d_depth_mapping_rtab1.launch.py
+[0.960s] -- Up-to-date: /home/vatsan/robo/src/ros2_learners/install/point_cloud_perception/share/ament_index/resource_index/package_run_dependencies/point_cloud_perception
+[0.960s] -- Up-to-date: /home/vatsan/robo/src/ros2_learners/install/point_cloud_perception/share/ament_index/resource_index/parent_prefix_path/point_cloud_perception
+[0.960s] -- Up-to-date: /home/vatsan/robo/src/ros2_learners/install/point_cloud_perception/share/point_cloud_perception/environment/ament_prefix_path.sh
+[0.960s] -- Up-to-date: /home/vatsan/robo/src/ros2_learners/install/point_cloud_perception/share/point_cloud_perception/environment/ament_prefix_path.dsv
+[0.960s] -- Up-to-date: /home/vatsan/robo/src/ros2_learners/install/point_cloud_perception/share/point_cloud_perception/environment/path.sh
+[0.960s] -- Up-to-date: /home/vatsan/robo/src/ros2_learners/install/point_cloud_perception/share/point_cloud_perception/environment/path.dsv
+[0.960s] -- Up-to-date: /home/vatsan/robo/src/ros2_learners/install/point_cloud_perception/share/point_cloud_perception/local_setup.bash
+[0.960s] -- Up-to-date: /home/vatsan/robo/src/ros2_learners/install/point_cloud_perception/share/point_cloud_perception/local_setup.sh
+[0.960s] -- Up-to-date: /home/vatsan/robo/src/ros2_learners/install/point_cloud_perception/share/point_cloud_perception/local_setup.zsh
+[0.960s] -- Up-to-date: /home/vatsan/robo/src/ros2_learners/install/point_cloud_perception/share/point_cloud_perception/local_setup.dsv
+[0.961s] -- Installing: /home/vatsan/robo/src/ros2_learners/install/point_cloud_perception/share/point_cloud_perception/package.dsv
+[0.961s] -- Up-to-date: /home/vatsan/robo/src/ros2_learners/install/point_cloud_perception/share/ament_index/resource_index/packages/point_cloud_perception
+[0.961s] -- Up-to-date: /home/vatsan/robo/src/ros2_learners/install/point_cloud_perception/share/point_cloud_perception/cmake/point_cloud_perceptionConfig.cmake
+[0.961s] -- Up-to-date: /home/vatsan/robo/src/ros2_learners/install/point_cloud_perception/share/point_cloud_perception/cmake/point_cloud_perceptionConfig-version.cmake
+[0.961s] -- Up-to-date: /home/vatsan/robo/src/ros2_learners/install/point_cloud_perception/share/point_cloud_perception/package.xml
+[0.965s] Invoked command in '/home/vatsan/robo/src/ros2_learners/build/point_cloud_perception' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /home/vatsan/.local/bin/cmake --install /home/vatsan/robo/src/ros2_learners/build/point_cloud_perception

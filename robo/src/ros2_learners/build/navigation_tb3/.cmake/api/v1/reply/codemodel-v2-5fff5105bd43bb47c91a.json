@@ -1,0 +1,97 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-d44e47fcece1fa254f54.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "navigation_tb3",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_navigation_tb3_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_navigation_tb3_egg-74f655ca40d41580f760.json",
+					"name" : "ament_cmake_python_build_navigation_tb3_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_copy_navigation_tb3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_copy_navigation_tb3-9071c23d5c89afbf60f2.json",
+					"name" : "ament_cmake_python_copy_navigation_tb3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "navigation_tb3_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-navigation_tb3_uninstall-fd3d3fe717aff1b5eaac.json",
+					"name" : "navigation_tb3_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pub_occupancy_grid::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pub_occupancy_grid-239f3d9d7a13e5d98f4c.json",
+					"name" : "pub_occupancy_grid",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-1e0b4e909e973ead9bcf.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/vatsan/robo/src/ros2_learners/build/navigation_tb3",
+		"source" : "/home/vatsan/robo/src/ros2_learners/navigation_tb3"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

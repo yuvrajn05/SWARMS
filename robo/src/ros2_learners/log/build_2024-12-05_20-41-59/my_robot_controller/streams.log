@@ -1,0 +1,79 @@
+[1.595s] Invoking command in '/home/vatsan/robo/src/ros2_learners/my_robot_controller': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/vatsan/robo/src/ros2_learners/build/my_robot_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vatsan/robo/src/ros2_learners/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/my_robot_controller build --build-base /home/vatsan/robo/src/ros2_learners/build/my_robot_controller/build install --record /home/vatsan/robo/src/ros2_learners/build/my_robot_controller/install.log --single-version-externally-managed install_data
+[2.271s] running egg_info
+[2.272s] creating ../build/my_robot_controller/my_robot_controller.egg-info
+[2.272s] writing ../build/my_robot_controller/my_robot_controller.egg-info/PKG-INFO
+[2.273s] writing dependency_links to ../build/my_robot_controller/my_robot_controller.egg-info/dependency_links.txt
+[2.273s] writing entry points to ../build/my_robot_controller/my_robot_controller.egg-info/entry_points.txt
+[2.273s] writing requirements to ../build/my_robot_controller/my_robot_controller.egg-info/requires.txt
+[2.276s] writing top-level names to ../build/my_robot_controller/my_robot_controller.egg-info/top_level.txt
+[2.276s] writing manifest file '../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[2.276s] reading manifest file '../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[2.276s] adding license file 'LICENSE'
+[2.277s] writing manifest file '../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[2.277s] running build
+[2.277s] running build_py
+[2.278s] creating /home/vatsan/robo/src/ros2_learners/build/my_robot_controller/build
+[2.278s] creating /home/vatsan/robo/src/ros2_learners/build/my_robot_controller/build/lib
+[2.278s] creating /home/vatsan/robo/src/ros2_learners/build/my_robot_controller/build/lib/my_robot_controller
+[2.279s] copying my_robot_controller/keras_ddpg.py -> /home/vatsan/robo/src/ros2_learners/build/my_robot_controller/build/lib/my_robot_controller
+[2.279s] copying my_robot_controller/DDPG.py -> /home/vatsan/robo/src/ros2_learners/build/my_robot_controller/build/lib/my_robot_controller
+[2.279s] copying my_robot_controller/ddpg.py -> /home/vatsan/robo/src/ros2_learners/build/my_robot_controller/build/lib/my_robot_controller
+[2.280s] copying my_robot_controller/GazeboEnv (copy).py -> /home/vatsan/robo/src/ros2_learners/build/my_robot_controller/build/lib/my_robot_controller
+[2.280s] copying my_robot_controller/simplified_q.py -> /home/vatsan/robo/src/ros2_learners/build/my_robot_controller/build/lib/my_robot_controller
+[2.280s] copying my_robot_controller/common_definitions.py -> /home/vatsan/robo/src/ros2_learners/build/my_robot_controller/build/lib/my_robot_controller
+[2.281s] copying my_robot_controller/_Utils.py -> /home/vatsan/robo/src/ros2_learners/build/my_robot_controller/build/lib/my_robot_controller
+[2.281s] copying my_robot_controller/__init__.py -> /home/vatsan/robo/src/ros2_learners/build/my_robot_controller/build/lib/my_robot_controller
+[2.281s] copying my_robot_controller/q_learning.py -> /home/vatsan/robo/src/ros2_learners/build/my_robot_controller/build/lib/my_robot_controller
+[2.281s] copying my_robot_controller/Utils.py -> /home/vatsan/robo/src/ros2_learners/build/my_robot_controller/build/lib/my_robot_controller
+[2.282s] copying my_robot_controller/updated_keras_ddpg.py -> /home/vatsan/robo/src/ros2_learners/build/my_robot_controller/build/lib/my_robot_controller
+[2.283s] copying my_robot_controller/GazeboEnv.py -> /home/vatsan/robo/src/ros2_learners/build/my_robot_controller/build/lib/my_robot_controller
+[2.283s] running install
+[2.284s] running install_lib
+[2.285s] creating /home/vatsan/robo/src/ros2_learners/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller
+[2.286s] copying /home/vatsan/robo/src/ros2_learners/build/my_robot_controller/build/lib/my_robot_controller/keras_ddpg.py -> /home/vatsan/robo/src/ros2_learners/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller
+[2.286s] copying /home/vatsan/robo/src/ros2_learners/build/my_robot_controller/build/lib/my_robot_controller/DDPG.py -> /home/vatsan/robo/src/ros2_learners/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller
+[2.286s] copying /home/vatsan/robo/src/ros2_learners/build/my_robot_controller/build/lib/my_robot_controller/ddpg.py -> /home/vatsan/robo/src/ros2_learners/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller
+[2.287s] copying /home/vatsan/robo/src/ros2_learners/build/my_robot_controller/build/lib/my_robot_controller/GazeboEnv (copy).py -> /home/vatsan/robo/src/ros2_learners/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller
+[2.287s] copying /home/vatsan/robo/src/ros2_learners/build/my_robot_controller/build/lib/my_robot_controller/simplified_q.py -> /home/vatsan/robo/src/ros2_learners/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller
+[2.287s] copying /home/vatsan/robo/src/ros2_learners/build/my_robot_controller/build/lib/my_robot_controller/common_definitions.py -> /home/vatsan/robo/src/ros2_learners/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller
+[2.287s] copying /home/vatsan/robo/src/ros2_learners/build/my_robot_controller/build/lib/my_robot_controller/_Utils.py -> /home/vatsan/robo/src/ros2_learners/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller
+[2.288s] copying /home/vatsan/robo/src/ros2_learners/build/my_robot_controller/build/lib/my_robot_controller/__init__.py -> /home/vatsan/robo/src/ros2_learners/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller
+[2.288s] copying /home/vatsan/robo/src/ros2_learners/build/my_robot_controller/build/lib/my_robot_controller/q_learning.py -> /home/vatsan/robo/src/ros2_learners/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller
+[2.288s] copying /home/vatsan/robo/src/ros2_learners/build/my_robot_controller/build/lib/my_robot_controller/Utils.py -> /home/vatsan/robo/src/ros2_learners/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller
+[2.288s] copying /home/vatsan/robo/src/ros2_learners/build/my_robot_controller/build/lib/my_robot_controller/updated_keras_ddpg.py -> /home/vatsan/robo/src/ros2_learners/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller
+[2.289s] copying /home/vatsan/robo/src/ros2_learners/build/my_robot_controller/build/lib/my_robot_controller/GazeboEnv.py -> /home/vatsan/robo/src/ros2_learners/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller
+[2.290s] byte-compiling /home/vatsan/robo/src/ros2_learners/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller/keras_ddpg.py to keras_ddpg.cpython-310.pyc
+[2.295s] byte-compiling /home/vatsan/robo/src/ros2_learners/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller/DDPG.py to DDPG.cpython-310.pyc
+[2.303s] byte-compiling /home/vatsan/robo/src/ros2_learners/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller/ddpg.py to ddpg.cpython-310.pyc
+[2.306s] byte-compiling /home/vatsan/robo/src/ros2_learners/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller/GazeboEnv (copy).py to GazeboEnv (copy).cpython-310.pyc
+[2.306s] byte-compiling /home/vatsan/robo/src/ros2_learners/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller/simplified_q.py to simplified_q.cpython-310.pyc
+[2.307s] byte-compiling /home/vatsan/robo/src/ros2_learners/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller/common_definitions.py to common_definitions.cpython-310.pyc
+[2.307s] byte-compiling /home/vatsan/robo/src/ros2_learners/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller/_Utils.py to _Utils.cpython-310.pyc
+[2.308s] byte-compiling /home/vatsan/robo/src/ros2_learners/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller/__init__.py to __init__.cpython-310.pyc
+[2.308s] byte-compiling /home/vatsan/robo/src/ros2_learners/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller/q_learning.py to q_learning.cpython-310.pyc
+[2.314s] byte-compiling /home/vatsan/robo/src/ros2_learners/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller/Utils.py to Utils.cpython-310.pyc
+[2.314s] byte-compiling /home/vatsan/robo/src/ros2_learners/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller/updated_keras_ddpg.py to updated_keras_ddpg.cpython-310.pyc
+[2.318s] byte-compiling /home/vatsan/robo/src/ros2_learners/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller/GazeboEnv.py to GazeboEnv.cpython-310.pyc
+[2.320s] running install_data
+[2.320s] creating /home/vatsan/robo/src/ros2_learners/install/my_robot_controller/share/ament_index
+[2.320s] creating /home/vatsan/robo/src/ros2_learners/install/my_robot_controller/share/ament_index/resource_index
+[2.320s] creating /home/vatsan/robo/src/ros2_learners/install/my_robot_controller/share/ament_index/resource_index/packages
+[2.320s] copying resource/my_robot_controller -> /home/vatsan/robo/src/ros2_learners/install/my_robot_controller/share/ament_index/resource_index/packages
+[2.320s] copying package.xml -> /home/vatsan/robo/src/ros2_learners/install/my_robot_controller/share/my_robot_controller
+[2.324s] running install_egg_info
+[2.324s] Copying ../build/my_robot_controller/my_robot_controller.egg-info to /home/vatsan/robo/src/ros2_learners/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller-0.0.0-py3.10.egg-info
+[2.326s] running install_scripts
+[2.353s] Installing DDPG script to /home/vatsan/robo/src/ros2_learners/install/my_robot_controller/lib/my_robot_controller
+[2.353s] Installing common_def script to /home/vatsan/robo/src/ros2_learners/install/my_robot_controller/lib/my_robot_controller
+[2.353s] Installing ddpg script to /home/vatsan/robo/src/ros2_learners/install/my_robot_controller/lib/my_robot_controller
+[2.353s] Installing draw_circle script to /home/vatsan/robo/src/ros2_learners/install/my_robot_controller/lib/my_robot_controller
+[2.354s] Installing number_count script to /home/vatsan/robo/src/ros2_learners/install/my_robot_controller/lib/my_robot_controller
+[2.355s] Installing number_publish script to /home/vatsan/robo/src/ros2_learners/install/my_robot_controller/lib/my_robot_controller
+[2.355s] Installing pose_publish script to /home/vatsan/robo/src/ros2_learners/install/my_robot_controller/lib/my_robot_controller
+[2.355s] Installing pose_subscribe script to /home/vatsan/robo/src/ros2_learners/install/my_robot_controller/lib/my_robot_controller
+[2.355s] Installing q_learning script to /home/vatsan/robo/src/ros2_learners/install/my_robot_controller/lib/my_robot_controller
+[2.355s] Installing reset_count script to /home/vatsan/robo/src/ros2_learners/install/my_robot_controller/lib/my_robot_controller
+[2.356s] Installing test_node script to /home/vatsan/robo/src/ros2_learners/install/my_robot_controller/lib/my_robot_controller
+[2.356s] Installing updated_keras_ddpg script to /home/vatsan/robo/src/ros2_learners/install/my_robot_controller/lib/my_robot_controller
+[2.356s] writing list of installed files to '/home/vatsan/robo/src/ros2_learners/build/my_robot_controller/install.log'
+[2.407s] Invoked command in '/home/vatsan/robo/src/ros2_learners/my_robot_controller' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/vatsan/robo/src/ros2_learners/build/my_robot_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vatsan/robo/src/ros2_learners/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/my_robot_controller build --build-base /home/vatsan/robo/src/ros2_learners/build/my_robot_controller/build install --record /home/vatsan/robo/src/ros2_learners/build/my_robot_controller/install.log --single-version-externally-managed install_data
